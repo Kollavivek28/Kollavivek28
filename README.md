@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kolla Vivek</h1>
-<h3 align="center">A passionate Cloud Developer From India</h3>
+<h3 align="center">A passionate Cloud Developer And Forntend developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kollavivek28&label=Profile%20views&color=0e75b6&style=flat" alt="kollavivek28" /> </p>
 
