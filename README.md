@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Aws Cloud Development**
+- 🔭 I’m currently working on **MERN Stack & Aws Cloud Development**
 
 - 🌱 I’m currently learning **Aws cloud Development and Networking**
 
 - 👯 I’m looking to collaborate on **Internship opportunities**
 
-- 💬 Ask me about **Amazon Web Services**
+- 💬 Ask me about ** Frontend and Backend Amazon Web Services**
 
 - 📫 How to reach me **kollavivek20@gmail.com**
 
