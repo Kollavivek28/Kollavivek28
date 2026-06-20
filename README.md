@@ -22,11 +22,7 @@
   </a>
 </p>
 
-<!-- LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/vivekkolla28?theme=dark&font=Karma&ext=heatmap)
 
-<!-- CodeChef Stats Card -->
-![CodeChef](https://cp-logo.vercel.app/codechef/vivekkolla28)
 
 ---
 
